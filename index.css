@@ -1,0 +1,28 @@
+.top-banner{
+    background-image: url(img/bg-1.png);
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.card{
+    border: none;
+    box-shadow:5px 5px 10px lightgray;
+    border-radius: 10px;
+}
+.card-footer{
+    border: none;
+    background-color: white;
+}
+h1{
+    color: slategrey;
+}
+h6{
+    color: orange;
+}
+.bg{
+    background-color: white;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px 0px 20px 0px;
+}
+ .bag-bg{
+    border-radius: 0px 10px 0px 20px;
+ }
